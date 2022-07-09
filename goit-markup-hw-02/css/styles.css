@@ -57,11 +57,11 @@ body {
     line-height: 1.14;
 }
 
-.text-logo-part1 {
+.text-logo-part-first {
     color: var(--accent-color)
 }
 
-.header-text-logo-part2 {
+.header-text-logo-part-second {
     color: var(--title-text-color);
 }
 
@@ -145,7 +145,7 @@ color: var(--primary-white-color);
     background: var(--title-text-color);
 }
 
-.footer-text-logo-part2 {
+.footer-text-logo-part-second {
     color: var(--primary-white-color);
 }
 
